@@ -11,6 +11,13 @@ AI-native software studio building agent tools, MVPs and automation systems.
 * Data dashboards
 * API integrations
 
+## How we work
+
+- Ship small working MVPs first
+- Use TypeScript/Next.js for fast web delivery
+- Add AI features only where they reduce manual work
+- Build dashboards around real business workflows
+
 ## Current build: AgentOps Control Room
 
 A control dashboard for AI agent workflows.
