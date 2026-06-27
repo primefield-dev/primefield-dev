@@ -1,16 +1,28 @@
-## Hi there 👋
+# Primefield Dev
 
-<!--
-**primefield-dev/primefield-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build MVPs, internal tools, dashboards and AI-powered web applications.
 
-Here are some ideas to get you started:
+## What we build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MVP web apps
+- Internal dashboards
+- Admin panels
+- AI-powered tools
+- Business automation
+- API integrations
+
+## Current focus
+
+We are building demo projects and case studies to showcase our development work.
+
+## Tech stack
+
+Next.js, React, TypeScript, Node.js, Python, PostgreSQL, Tailwind CSS, AI APIs.
+
+## Portfolio
+
+Coming soon.
+
+## Contact
+
+primefield.dev@gmail.com
