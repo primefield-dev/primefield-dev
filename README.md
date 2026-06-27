@@ -11,13 +11,21 @@ AI-native software studio building agent tools, MVPs and automation systems.
 * Data dashboards
 * API integrations
 
-## Current build
+## Current build: AgentOps Control Room
 
-### AgentOps Control Room
+A control dashboard for AI agent workflows.
 
-A control dashboard for AI agent workflows: tool calls, approvals, token budgets, errors and replay.
+Tracks:
+- tool calls
+- approvals
+- token budgets
+- failed runs
+- workflow replay
+- human-in-the-loop decisions
 
-Status: in development.
+Status: in development  
+Demo: coming soon  
+Preview: screenshot coming soon
 
 ## Tech stack
 
