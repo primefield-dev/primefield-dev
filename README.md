@@ -1,28 +1,28 @@
 # Primefield Dev
 
-We build MVPs, internal tools, dashboards and AI-powered web applications.
+AI-native software studio building agent tools, MVPs and automation systems.
 
 ## What we build
 
-- MVP web apps
-- Internal dashboards
-- Admin panels
-- AI-powered tools
-- Business automation
-- API integrations
+* AI agent dashboards
+* MVP web applications
+* Internal tools
+* Automation systems
+* Data dashboards
+* API integrations
 
-## Current focus
+## Current build
 
-We are building demo projects and case studies to showcase our development work.
+### AgentOps Control Room
+
+A control dashboard for AI agent workflows: tool calls, approvals, token budgets, errors and replay.
+
+Status: in development.
 
 ## Tech stack
 
 Next.js, React, TypeScript, Node.js, Python, PostgreSQL, Tailwind CSS, AI APIs.
 
-## Portfolio
-
-Coming soon.
-
 ## Contact
 
-primefield.dev@gmail.com
+[primefield.dev@gmail.com](mailto:primefield.dev@gmail.com)
