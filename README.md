@@ -1,42 +1,39 @@
 # Primefield Dev
 
-AI-native software studio building agent tools, MVPs and automation systems.
+**Custom software studio building websites, MVPs, internal tools and AI-powered systems.**
+
+We help people, founders and small teams turn ideas, workflows and business problems into working software.
 
 ## What we build
 
-* AI agent dashboards
+* Websites and landing pages
 * MVP web applications
-* Internal tools
-* Automation systems
-* Data dashboards
+* Internal tools and admin panels
+* Dashboards and data tools
+* Workflow automation systems
+* AI-powered web products
+* Agent dashboards and developer tools
 * API integrations
+
+## Current build
+
+### AgentOps Control Room
+
+AI agent monitoring dashboard with tool logs, approvals, cost tracking, failed runs and workflow replay.
+
+Status: in development.
 
 ## How we work
 
-- Ship small working MVPs first
-- Use TypeScript/Next.js for fast web delivery
-- Add AI features only where they reduce manual work
-- Build dashboards around real business workflows
-
-## Current build: AgentOps Control Room
-
-A control dashboard for AI agent workflows.
-
-Tracks:
-- tool calls
-- approvals
-- token budgets
-- failed runs
-- workflow replay
-- human-in-the-loop decisions
-
-Status: in development  
-Demo: coming soon  
-Preview: screenshot coming soon
+* Build small working versions first
+* Focus on clean UI and practical product UX
+* Move fast without turning projects into templates
+* Use AI where it actually reduces manual work
+* Ship software that clients can understand and use
 
 ## Tech stack
 
-Next.js, React, TypeScript, Node.js, Python, PostgreSQL, Tailwind CSS, AI APIs.
+Next.js, React, TypeScript, Node.js, Python, PostgreSQL, Tailwind CSS, shadcn/ui, AI APIs.
 
 ## Contact
 
